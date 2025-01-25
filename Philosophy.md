@@ -15,5 +15,5 @@ Print order
 Final fitting  
 
 Components:  
-Board: Pro Mini ATMEGA328P
+Board: Pro Mini ATMEGA328P  
 Display type? 
